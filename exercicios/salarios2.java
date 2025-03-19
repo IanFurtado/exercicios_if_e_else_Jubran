@@ -1,5 +1,3 @@
-package exerciciosifelse;
-
 import java.util.Scanner;
 
 public class salarios2 {
