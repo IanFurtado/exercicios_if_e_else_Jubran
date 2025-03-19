@@ -17,11 +17,9 @@ public class desvio {
                 System.out.println("ECA");
             } else {
                 System.out.println("Sexualidade inválida");
-                System.exit(0);
             }
-        } else if (sex >= 4){
+        } else if (sex >= 3){
             System.out.println("Genêro inválido");
-            System.exit(0);
         } else if (pref == 2 || pref == 3) {
             System.out.println("Pra cima");
         } else if (pref == 1) {
